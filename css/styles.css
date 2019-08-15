@@ -1,5 +1,5 @@
 body{
-  
+
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
@@ -27,4 +27,19 @@ margin-right: 16%;
 }
 .head img{
   float:right;
+}
+.style{
+  background-color: black;
+  color: white;
+}
+
+.card-deck{
+  padding-bottom: 20px;
+  font-weight: 600;
+  font-size: 18px;
+
+}
+.card{
+  background: black;
+  border-radius: 25%;
 }
