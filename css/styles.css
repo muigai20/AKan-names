@@ -1,5 +1,5 @@
 body{
-background-image: url("/home/moringa/Documents/Akan-name/image/boat2.jpg");
+background-image: url("https://live.staticflickr.com/1775/42247572660_8b69387e93_b.jpg");
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
@@ -42,4 +42,9 @@ margin-right: 16%;
 .card{
   background: black;
   border-radius: 25%;
+}
+footer{
+  text-align: center;
+  color: black;
+  font-size: 20px;
 }
