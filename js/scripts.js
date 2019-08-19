@@ -41,4 +41,37 @@ function validate() {
   }
 
   function getGender(){
-  
+    var genders = document.getElementsByName("gender");
+    if(genders[0].checked == true){
+      var gender = "male";
+    }
+    else if(genders[1].checked == true){
+      var gender = "female";
+    }
+    else{
+      alert("gender not selected");
+    }
+    switch(gender){
+        case "male":
+            if (dayValue == 1){
+              alert("The day is on " +dayNames[0] + " Your akan name is " +maleNames[0]+"!");
+            }
+            else if(dayValue == 2){
+              alert("The day is on "+dayNames[1] + " Your akan name is" +maleNames[1]+"!");
+            }
+            else if(dayValue == 3){
+              alert("The day is on " +dayNames[2]+ " Your akan name is " +maleNames[2]+"!");
+            }
+            else if(dayValue == 4){
+              alert("The day is on "+dayNames[3] +  " Your akan name is " +maleNames[3]+"!");
+            }
+            else if(dayValue == 5){
+              alert("The day is on "+dayNames[4] +  " Your akan name is " +maleNames[4]+"!");
+            }
+            else if(dayValue == 6){
+              alert("The day is on "+dayNames[5] +  " Your akan name is " +maleNames[5]+"!");
+            }
+            else if(dayValue == 7){
+              alert("The day is on "+dayNames[6] + " Your akan name is " +maleNames[6]+"!");
+            }
+      
