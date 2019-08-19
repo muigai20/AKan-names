@@ -1,8 +1,9 @@
 body{
-background-image: url(https://live.staticflickr.com/1775/42247572660_8b69387e93_b.jpg);
+background-image: url("https://live.staticflickr.com/1775/42247572660_8b69387e93_b.jpg");
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
+  height: 100vh;
 }
 .head{
   text-align: center;
@@ -19,7 +20,8 @@ margin-left: 25%;
 margin-right: 16%;
   opacity: 0.9;
   border-radius: 10px;
-  
+  color: white;
+
 }
 .h{
   font-family: 'Lacquer', sans-serif;
