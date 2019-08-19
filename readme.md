@@ -1,6 +1,7 @@
 # Akan Names
 
-#### By Joseph
+#### Author
+Joseph Kamau
 
 ## Description
 This is website that enable the user to identify his/her Akan name that is derived from the ghananian people depending on the gender and the day of the week when they were born.
