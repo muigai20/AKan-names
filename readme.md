@@ -1,6 +1,6 @@
 # Akan Names
 
-#### Author
+## Author
 Joseph Kamau
 
 ## Description
