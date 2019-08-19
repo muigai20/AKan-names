@@ -33,7 +33,7 @@ The output is some how biased.
 * CSS
 * Javascript
 
-##BDD
+## BDD
 
 Enter century of birth eg 20 for 2019, Input Example 20 Output example 20
 
